@@ -1,1 +1,1 @@
-# practice-one
+This repo is just for practice
